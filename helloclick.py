@@ -1,6 +1,6 @@
 import click
 
-# var=
+# subtle bug that will burn you
 
 
 @click.command()
